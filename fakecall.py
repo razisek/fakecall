@@ -4,11 +4,10 @@ import time
 import requests
 
 __banner__ = """
-\033[1;33m  __       _                    _ _	  
-\033[1;33m / _| __ _| | _____    ___ __ _| | |  \033[1;37m| Author : Mr.r1i14z
-\033[1;33m| |_ / _` | |/ / _ \  / __/ _` | | |  \033[1;37m| Contact : azisek@merahputih.id
-\033[1;33m|  _| (_| |   <  __/ | (_| (_| | | |  \033[1;37m| github : \033[4mhttps://github.com/R1iaz\033[0m'
-\033[1;33m|_|  \__,_|_|\_\___|  \___\__,_|_|_|  \033[1;37m| Never Stop To Learning
+\033[1;33m   ____     __         _____     ____ \033[1;37m| Author : Mr.r1i14z
+\033[1;33m  / __/__ _/ /_____   / ___/__ _/ / / \033[1;37m| Contact : azisek@merahputih.id
+\033[1;33m / _// _ `/  '_/ -_) / /__/ _ `/ / /  \033[1;37m| github : \033[4mhttps://github.com/R1iaz\033[0m'
+\033[1;33m/_/  \_,_/_/\_\\__/  \___/\_,_/_/_/   \033[1;37m| Never Stop To Learning
 """
 
 def spam():
